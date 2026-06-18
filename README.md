@@ -1,1 +1,1 @@
-# Hotels-Governance
+# Hotels-Governance (Data Governance)
